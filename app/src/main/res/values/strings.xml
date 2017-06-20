@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android insert blob data in Android</string>
+    <string name="name">Name :</string>
+    <string name="age">Age :</string>
+    <string name="sex">Sex :</string>
+    <string name="EmployeeImage">photo</string>
+</resources>
